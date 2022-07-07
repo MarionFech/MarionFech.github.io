@@ -171,7 +171,6 @@ plugins:
   - jekyll-target-blank
   - jekyll-twitter-plugin
   - jemoji
-  - jekyll-jupyter-notebook
 
 # Sitemap settings
 defaults:
