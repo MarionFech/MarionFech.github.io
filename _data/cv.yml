@@ -9,20 +9,6 @@
       value: English, French
 
 
-- title: Education
-  type: time_table
-  contents:
-    - title: PhD
-      institution: Aix-Marseille Université
-      year: 2018-current
-      description:
-        - Creation of a French Corpus of poetry
-        - 2 online questionnaires to understand how metaphors are perceived in a poetic text (1500 participants per questionnaire)
-        - title: Metaphor comprehension in French Poetry Texts
-          contents:
-            - Metaphors in isolation vs. metaphors in context
-            - Beauty rating textual features
-
 
 
 - title: Experience
