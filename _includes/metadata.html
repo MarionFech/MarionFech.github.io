@@ -135,10 +135,6 @@
         {%- assign sameaslinks = sameaslinks | split: "" -%}
     {%- endif -%}
 
-
-    <!-- Ensuring site ownership for indexing -->
-    <meta name="google-site-verification" content="t2RTb7TymazQaSpFIL6UILFPzauMDUnXsg43Z2HBRvs" />
-
     <script type="application/ld+json">
       {
         "author":
@@ -146,6 +142,7 @@
           "@type": "Person",
           "name": "{{ site.first_name }} {{ site.middle_name }} {{ site.last_name }}"
         },
+        "google-site-verification": "t2RTb7TymazQaSpFIL6UILFPzauMDUnXsg43Z2HBRvs",
         "url": "{{ page.url | prepend: site.baseurl | prepend: site.url }}",
         "@type": "WebSite",
         "description": "{%- if page.description -%}{{ page.description }}{%- else if site.description -%}{{ site.description }}{%- endif -%}",
