@@ -16,7 +16,9 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am a PHD student in quest of new challenges and adventures. I am flowing between cognitive psychology and new tools of Natural Language Processing to better understand written messages. I am really interested to convey easy to understand tools for better understanding of anything that a human wrote. There are so many written messages that we can use to better understand our brain, our society, our relationships, and how we perceive others, emotions, and beauty. 
+I am a PHD student in quest of new challenges and adventures. I am flowing between cognitive psychology and new tools of Natural Language Processing to better understand written messages. 
+
+I am really interested to convey easy to understand tools for better understanding of anything that a human wrote. There are so many written messages that we can use to better understand our brain, our society, our relationships, and how we perceive others, emotions, and beauty. 
 
 
 <!---
