@@ -31,6 +31,7 @@
 {%- if page.keywords or site.keywords %}
     <meta name="keywords" content="{%- if page.keywords -%}{{ page.keywords }}{%- else -%}{{ site.keywords }}{%- endif -%}" />
 {%- endif %}
+    <meta name="google-site-verification" content="t2RTb7TymazQaSpFIL6UILFPzauMDUnXsg43Z2HBRvs" />
 
 {%- if site.serve_og_meta %}
 
@@ -142,7 +143,6 @@
           "@type": "Person",
           "name": "{{ site.first_name }} {{ site.middle_name }} {{ site.last_name }}"
         },
-        "google-site-verification": "t2RTb7TymazQaSpFIL6UILFPzauMDUnXsg43Z2HBRvs",
         "url": "{{ page.url | prepend: site.baseurl | prepend: site.url }}",
         "@type": "WebSite",
         "description": "{%- if page.description -%}{{ page.description }}{%- else if site.description -%}{{ site.description }}{%- endif -%}",
