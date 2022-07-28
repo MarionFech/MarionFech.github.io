@@ -16,10 +16,11 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am a PHD student in quest of new challenges and adventures. I am flowing between cognitive psychology and new tools of Natural Language Processing to better understand written messages. 
+I am a PHD student in quest of new challenges and adventures. I am flowing between cognitive psychology and new tools of Natural Language Processing to better understand written messages.
 
-I am really interested to convey easy to understand tools for better understanding of anything that a human wrote. There are so many written messages that we can use to better understand our brain, our society, our relationships, and how we perceive others, emotions, and beauty. 
+I am really interested to convey easy to understand tools for better understanding of anything that a human wrote. There are so many written messages that we can use to better understand our brain, our society, our relationships, and how we perceive others, emotions, and beauty.
 
+For more informations on my formation and experience, you can find my resume [here](https://marionfech.github.io/assets/pdf/MARION_FECHINO_CV_ENGLISH_2022_general.pdf), contact me via mail or any of the following social networks.
 
 <!---
 #Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/#Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, #Twitter, LinkedIn, Google Scholar, or just disable all of them.
