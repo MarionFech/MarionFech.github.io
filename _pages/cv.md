@@ -4,5 +4,5 @@ permalink: /cv/
 title: cv
 nav: true
 nav_order: 3
-cv_pdf: MARION_FECHINO_CV_ENGLISH_2022_general.pdf
+cv_pdf: CV_english_2024.pdf
 ---
