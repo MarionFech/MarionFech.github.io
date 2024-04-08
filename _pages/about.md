@@ -2,7 +2,7 @@
 layout: about
 title: home
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. LPC & CNRS, Aix-Marseille Université
+subtitle: <a href='#'>Free-lancer</a>. Montreal, Qc
 
 profile:
   align: right
@@ -16,9 +16,21 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am a PHD student in quest of new challenges and adventures. I am flowing between cognitive psychology and new tools of Natural Language Processing to better understand written messages.
+Greetings! I am Marion, a dedicated freelance consultant specializing in the intersection of Natural Language Processing (NLP), Machine Learning, and cognitive psychology. With a diverse educational background encompassing psychology and biology and a deep dive into metaphor appreciation and aesthetics during my Ph.D. years, I bring a unique blend of interdisciplinary expertise to the table. Join me as I share my journey and passion for leveraging Keras, TensorFlow, and Transformers to unlock the mysteries of language and cognition.
 
-I am really interested to convey easy to understand tools for better understanding of anything that a human wrote. There are so many written messages that we can use to better understand our brain, our society, our relationships, and how we perceive others, emotions, and beauty.
+My journey began with a fervent curiosity about the intricacies of the human mind and language. 
+
+Literature has long captivated me, serving as a portal to worlds both real and imagined. From the intricacies of prose to the beauty of poetry, the written word can evoke emotions, spark creativity, and transport readers to distant lands. As a passionate advocate for the intersection of cognitive psychology and literature, I am deeply intrigued by the phenomenon of immersive reading and the cognitive processes underlying our engagement with literary language.
+
+This curiosity led me to pursue a Ph.D. program in cognitive psychology, where I delve deep into the world of metaphor appreciation. Through rigorous research and exploration, I gained invaluable insights into the cognitive processes underlying language comprehension and interpretation.
+
+Driven by a desire to bridge theory with practical application, I transitioned into the dynamic fields of NLP and Machine Learning. Drawing upon my background in cognitive psychology and aesthetics, I sought to harness the power of these transformative technologies to unravel the mysteries of language and creativity. With Keras, TensorFlow, and the rise of Transformers models as my tools of choice, I embarked on a quest to explore the depths of language processing and computational linguistics.
+
+As I embarked on this journey as a freelance consultant in NLP and Machine Learning, I am excited about the opportunities that lie ahead. With a passion for interdisciplinary exploration, a dedication to excellence, and a commitment to making a meaningful impact, I invite you to join me in unraveling the mysteries of language and cognition. Let us explore minds and machines together, forging new pathways of understanding and creativity in the ever-evolving landscape of technology.
+
+Thank you for joining me on this exhilarating adventure. Let's embark on this journey of discovery and innovation together!
+
+
 
 For more informations on my formation and experience, you can find my resume [here](https://marionfech.github.io/assets/pdf/MARION_FECHINO_CV_ENGLISH_2022_general.pdf), contact me via mail or any of the following social networks.
 
