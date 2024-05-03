@@ -60,7 +60,7 @@ twitter_username: # your Twitter handle
 linkedin_username: marion-fechino-31bb0b153 # your LinkedIn user name
 scholar_userid: # your Google Scholar ID
 orcid_id: 0000-0002-4082-021X # your ORCID ID
-medium_username: # your Medium username
+medium_username: @marion.fechino # your Medium username
 quora_username: # your Quora username
 publons_id: # your ID on Publons
 research_gate_profile: Marion-Fechino # your profile on ResearchGate
@@ -88,7 +88,7 @@ bing_site_verification:  # out your bing-site-verification ID (Bing Webmaster)
 # Blog
 # -----------------------------------------------------------------------------
 
-blog_name: My blog # blog_name will be displayed in your blog page
+blog_name: Marions's blog # blog_name will be displayed in your blog page
 blog_nav_title: blog # your blog must have a title for it to be displayed in the nav bar
 blog_description: |
   My journey with machine learning and NLP testing methodologies.
