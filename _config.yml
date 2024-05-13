@@ -8,11 +8,11 @@ middle_name:
 last_name: Fechino
 email: marion.fechino@gmail.com
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  Free lancer, cognitive psychology and natural language processing, I am interested in understanding how we process aesthetic and emotions in literary texts.
+  Freelancer, cognitive psychologist, natural language processing data scientist, and data analyst. Passionate about new tools and testing new sets to make work a little bit easier, eager to achieve new challenges and unravel new information about human behavior and cognition!
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
-keywords: Marion, Fechino, Marion Fechino, cognitive, psychology, cognitive psychology, French, Ph.D, NLP, neuroaesthetics, language, Arthur Jacobs, Johannes Ziegler, Freie Universität Berlin, Aix-Marseille Université, LPC  # add your own keywords or leave empty
+keywords: Marion, Fechino, Marion Fechino, cognitive, psychology, cognitive psychology, French, Ph.D, NLP, neuroaesthetics, language, Arthur Jacobs, Johannes Ziegler, Freie Universität Berlin, Aix-Marseille Université, LPC, machine learning, MLP, LLM, transformers  # add your own keywords or leave empty
 
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: ⚛️  # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
@@ -203,7 +203,7 @@ jekyll-archives:
     tag: '/blog/tag/:name/'
     category: '/blog/category/:name/'
 
-display_tags: ['formatting', 'images', 'links', 'math', 'code'] # this tags will be dispalyed on the front page of your blog
+display_tags: ['Cognitive Psychology', 'Machine Learning', 'NLP'] # this tags will be dispalyed on the front page of your blog
 
 # -----------------------------------------------------------------------------
 # Jekyll Scholar
