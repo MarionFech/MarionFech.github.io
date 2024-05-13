@@ -2,7 +2,7 @@
 layout: about
 title: home
 permalink: /
-subtitle: <a href='#'>Free-lancer</a>. Montreal, Qc
+subtitle: <a href='#'>ML and AI data scientist, data analyst, Statistician, Psychometrician</a>. Montreal, Qc
 
 profile:
   align: right
@@ -16,19 +16,20 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Greetings! I am Marion, a dedicated freelance consultant specializing in the intersection of Natural Language Processing (NLP), Machine Learning, and cognitive psychology. With a diverse educational background encompassing psychology and biology and a deep dive into metaphor appreciation and aesthetics during my Ph.D. years, I bring a unique blend of interdisciplinary expertise. Join me as I share my journey and passion for leveraging Keras, TensorFlow, and Transformers to unlock the mysteries of language and cognition.
+Greetings! I am Marion, a dedicated data scientist and analyst specializing in the intersection of Natural Language Processing (NLP), Machine Learning, and cognitive psychology. With a diverse educational background encompassing psychology and biology and specialization in metaphor appreciation and aesthetics during my Ph.D. years, I bring a unique blend of interdisciplinary expertise. Join me as I share my journey and passion for leveraging Keras, TensorFlow, and Transformers to unlock the mysteries of language and cognition.
 
-My journey began with a fervent curiosity about the human mind's and language's intricacies. 
+My journey began with a genuine curiosity about the human mind's and language's intricacies. 
 
 Literature has long captivated me, serving as a portal to real and imagined worlds. From prose to poems, the written word can evoke emotions, spark creativity, and transport readers to distant lands. As a passionate advocate for the intersection of cognitive psychology and literature, I am deeply intrigued by the phenomenon of immersive reading and the cognitive processes underlying our engagement with literary language.
 
-This curiosity led me to pursue a Ph.D. program in cognitive psychology, where I delve deep into the world of metaphor appreciation. I gained invaluable insights into the cognitive processes underlying language comprehension and interpretation through rigorous research and exploration.
+This curiosity led me to pursue a Ph.D. in cognitive psychology, where I focused on literature appreciation, poetry reading, and metaphor recognition and appreciation. Through rigorous research and exploration, I gained invaluable insights into the cognitive processes underlying language comprehension and interpretation.
 
-Driven by a desire to bridge theory with practical application, I transitioned into the dynamic fields of NLP and Machine Learning. Drawing upon my background in cognitive psychology and aesthetics, I sought to harness the power of these transformative technologies to unravel the mysteries of language and creativity. With Keras, TensorFlow, and the rise of Transformers models as my tools of choice, I embarked on a quest to explore the depths of language processing and computational linguistics.
+Driven by a desire to bridge theory with practical application, I transitioned into the dynamic fields of NLP and Machine Learning. Inspired by my cognitive psychology and aesthetics background, I want to use these amazing technologies to unravel the mysteries of language and creativity. With Keras, TensorFlow, and the rise of Transformers models as my tools of choice, I embarked on a quest to explore the depths of language processing and computational linguistics.
 
-As I embarked on this journey as a freelance consultant in NLP and Machine Learning, I am excited about the opportunities. With a passion for interdisciplinary exploration, a dedication to excellence, and a commitment to making a meaningful impact, I invite you to join me in unraveling the mysteries of language and cognition. Let us explore minds and machines together, forging new pathways of understanding and creativity in the ever-evolving landscape of technology.
+I am excited about the opportunities. With a passion for interdisciplinary exploration, a dedication to excellence, and a commitment to making a meaningful impact, I invite you to join me in deciphering the mysteries of language and cognition. Let us explore minds and machines together, forging new pathways of understanding and creativity in the ever-evolving landscape of technology.
 
-Thank you for joining me on this exhilarating adventure. Let's embark on this journey of discovery and innovation together!
+Thank you for joining me on this exhilarating adventure. 
+Let's explore and create new things together!
 
 
 
