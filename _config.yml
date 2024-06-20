@@ -8,7 +8,7 @@ middle_name:
 last_name: Fechino
 email: marion.fechino@gmail.com
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  Freelancer, cognitive psychologist, natural language processing data scientist, and data analyst. Passionate about new tools and testing new sets to make work a little bit easier, eager to achieve new challenges and unravel new information about human behavior and cognition!
+  Freelancer | Cognitive Psychologist | NLP Data Scientist | Data Analyst | AI & ML Enthusiast | Advocate for Ethical and Sustainable Technologies
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
