@@ -11,17 +11,17 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout code
-        uses: actions/checkout@v4   # <— was actions/cache
+        uses: actions/checkout@v4
 
-      - name: Set up Ruby (with Bundler cache)
+      - name: Set up Ruby (bundler cache on)
         uses: ruby/setup-ruby@v1
         with:
-          ruby-version: '3.0.2'      # or remove to read from .ruby-version
-          bundler-cache: true        # <— enables automatic gem caching
+          ruby-version: '3.3'     # <- move off 3.0.2
+          bundler-cache: true     # runs & caches `bundle install`
+          bundler: 'latest'       # ignores old Bundler pinned in lockfile
 
       - name: Install tools
-        run: |
-          npm install -g @mermaid-js/mermaid-cli
+        run: npm install -g @mermaid-js/mermaid-cli
 
       - name: Setup deploy options
         id: setup
