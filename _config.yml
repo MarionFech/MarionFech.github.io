@@ -12,8 +12,7 @@ description: > # the ">" symbol means to ignore newlines until "footer_text:"
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
-keywords: Marion, Fechino, Marion Fechino, cognitive, psychology, cognitive psychology, French, Ph.D, NLP, neuroaesthetics, language, Arthur Jacobs, Johannes Ziegler, Freie Universität Berlin, Aix-Marseille Université, LPC, machine learning, MLP, LLM, transformers  # add your own keywords or leave empty
-
+keywords: Marion, Fechino, Marion Fechino, behavioral analytics, data science, artificial intelligence, machine learning, generative AI, NLP, large language models, LLM, cognitive science, cognitive psychology, behavioral science, psychometrics, statistics, data visualization, product analytics, health analytics, women’s health, health research, neuroscience, NIH, longitudinal studies, human behavior, decision making, language, cognition, user behavior, AI ethics, research, Python, SQL, Tableau, LangGraph, Amazon Bedrock, RAG, retrieval augmented generation, digital health, wellbeing, hypnotherapy, Montreal, Vancouver
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: ⚛️  # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
@@ -88,10 +87,21 @@ bing_site_verification:  # out your bing-site-verification ID (Bing Webmaster)
 # Blog
 # -----------------------------------------------------------------------------
 
-blog_name: "Welcome to my blog" # blog_name will be displayed in your blog page
+blog_name: "My three pillars" # blog_name will be displayed in your blog page
 blog_nav_title: blog # your blog must have a title for it to be displayed in the nav bar
-blog_description: |
-  My journey with machine learning and NLP testing methodologies.
+blog_description: 
+## Writing
+
+I write about the intersections between data, cognition, health, and human change.
+
+### 📊 Data & Analytics
+AI, NLP, dashboards, behavioral analytics, product analytics, and data visualization.
+
+### 🧠 Cognition & Behavior
+Cognitive psychology, decision-making, language, attention, learning, and user behavior.
+
+### 🌿 Health & Human Change
+Women's health, health research, behavioral change, hypnotherapy training, and evidence-based wellbeing.
 permalink: /blog/:year/:title/
 
 # Pagination
